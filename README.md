@@ -59,7 +59,7 @@ pip install -r requirements.txt
 This is the interface of the project.
 
 
-<td><img src="Images for readme/Screenshot 2025-09-05 204432.png" width="300"/></td>
+![App Screenshot](Images for readme/Screenshot 2025-09-05 204432.png)
 ---
 
 ## Scores
@@ -76,6 +76,7 @@ Evaluation metrics for different models on the test set:
 
 Note on Training:
 The evaluation scores reported above are based on the training sessions indicated in the table. In general, the models can achieve higher BLEU, ROUGE, and CIDEr scores if trained for more epochs. However, in our experiments, we observed that the scores were increasing only marginally after the reported number of epochs, so training was stopped to save time and computational resources.
+
 
 
 
