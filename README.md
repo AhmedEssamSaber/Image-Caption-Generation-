@@ -58,8 +58,9 @@ pip install -r requirements.txt
 
 This is the interface of the project.
 
+<td><img src="Images for readme/Screenshot 2025-09-05 204432.png"
+ width="1000"/></td>
 
-![App Screenshot](Images for readme/Screenshot 2025-09-05 204432.png)
 ---
 
 ## Scores
