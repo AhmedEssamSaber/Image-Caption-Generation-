@@ -51,7 +51,7 @@ pip install -r requirements.txt
 This is the interface of the project.
 
 
-![Sample Image]([images/sample.png](https://github.com/AhmedEssamSaber/Image-Caption-Generation-/blob/main/Images%20for%20readme/Screenshot%202025-09-05%20204432.png))
+![App Screenshot](Images-for-README/Screenshot 2025-09-05 204432.png)
 ---
 
 ## Scores
@@ -68,5 +68,6 @@ Evaluation metrics for different models on the test set:
 
 Note on Training:
 The evaluation scores reported above are based on the training sessions indicated in the table. In general, the models can achieve higher BLEU, ROUGE, and CIDEr scores if trained for more epochs. However, in our experiments, we observed that the scores were increasing only marginally after the reported number of epochs, so training was stopped to save time and computational resources.
+
 
 
