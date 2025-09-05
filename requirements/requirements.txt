@@ -1,0 +1,11 @@
+asposestorage==1.0.2
+matplotlib==3.10.6
+nltk==3.9.1
+numpy==2.3.2
+pandas==2.3.2
+Pillow==11.3.0
+rouge==1.0.1
+torch==2.7.1+cu118
+torchvision==0.22.1+cu118
+tqdm==4.67.1
+utils==1.0.2
