@@ -46,7 +46,10 @@ pip install -r requirements.txt
     <img src="path/to/image2.png" alt="Image 2" width="45%" />
     <img src="path/to/image3.png" alt="Image 3" width="45%" />
 </div>
+
+
 ---
+
 # Image Caption Generation Streamlit app 
 
 This is the interface of the project .
