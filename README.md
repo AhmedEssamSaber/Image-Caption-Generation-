@@ -1,4 +1,4 @@
-# 📸 Image Caption Generation
+#  Image Caption Generation
 
 This project implements **Image Captioning** using three architectures:  
 1. **Vision Transformer (ViT) + Transformer Decoder**  
